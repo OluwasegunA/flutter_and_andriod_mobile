@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "433418384280",
+    "firebase_url": "https://fir-chatapp-mobile.firebaseio.com",
+    "project_id": "fir-chatapp-mobile",
+    "storage_bucket": "fir-chatapp-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433418384280:android:adc7a698229e2d452371ed",
+        "android_client_info": {
+          "package_name": "com.oluwasegun.firebase_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433418384280-9g89tkt5ockfpll80hjoiu2u6pb1hfdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp-1FaTmMr1fgg2tjEgT2IHXsoY5FChvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433418384280-9g89tkt5ockfpll80hjoiu2u6pb1hfdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
